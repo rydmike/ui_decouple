@@ -130,7 +130,7 @@ class FlutterDeckExample extends StatelessWidget {
         socialHandle: 'flutter_deck',
         imagePath: 'assets/flutter_logo.png',
       ),
-      locale: const Locale('en'),
+      // locale: const Locale('en'),
       // localizationsDelegates: AppLocalizations.localizationsDelegates,
       // supportedLocales: AppLocalizations.supportedLocales,
     );
